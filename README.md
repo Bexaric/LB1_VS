@@ -111,17 +111,17 @@
 
 * Максимальная мощность: 25 Ватт
 
-![LED_up.png](images\LED_up.png)
+![LED_up.png](images/LED_up.png)
 
-![LED_down.png](images\LED_down.png)
+![LED_down.png](images/LED_down.png)
 
-![DC_Power.png](images\DC_Power.png)
+![DC_Power.png](images/DC_Power.png)
 
 Ниже представлено изображение коннекторов на LED-панели и их распиновка. Включать их следует строго в таком порядке. Если при подключении плата никак не реагирует, попробуйте перевернуть разъем.
 
-![LED_pins.png](images\LED_pins.png)
+![LED_pins.png](images/LED_pins.png)
 
-![LED_pinout.png](images\LED_pinout.png)
+![LED_pinout.png](images/LED_pinout.png)
 
 На разъёме:
 
@@ -139,7 +139,7 @@
 
 Ниже приведена принципиальная схема LED-панели P10
 
-![LED_PotScheme.png](images\LED_PotScheme.png)
+![LED_PotScheme.png](images/LED_PotScheme.png)
 
 Логика обновления экрана (точнее четверти экрана) выглядит следующим образом:
 
